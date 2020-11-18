@@ -1,3 +1,7 @@
 # infovis
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+
+## markdown (.md)
+
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
