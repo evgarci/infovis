@@ -8,7 +8,9 @@
 
 ## Makeover Monday
 [W44](https://evgarci.github.io/infovis/W44.html)
+
 [W46](https://evgarci.github.io/infovis/W46.html)
+
 [W47](https://evgarci.github.io/infovis/W47.html)
 
 
